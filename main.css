@@ -14,7 +14,11 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Segoe UI', Arial, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: #667eea; /* Убран градиент, теперь сплошной цвет */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden; /* Убирает горизонтальную белую полоску */
 }
 
 /* ========== КОНТЕЙНЕР ========== */
