@@ -1,0 +1,13 @@
+{
+  "name": "Quiz App",
+  "short_name": "Quiz",
+  "description": "Узнай что-то новое о себе с помощью наших тестов.",
+  "start_url": "/quiz-site/",
+  "scope": "/quiz-site/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "lang": "ru",
+  "dir": "ltr"
+}
