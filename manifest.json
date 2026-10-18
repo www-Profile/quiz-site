@@ -1,6 +1,6 @@
 {
-  "name": "Quiz App",
-  "short_name": "Quiz",
+  "name": "Quiz-App",
+  "short_name": "Quiz-App",
   "description": "Узнай что-то новое о себе с помощью наших тестов.",
   "start_url": "/quiz-site/",
   "scope": "/quiz-site/",
